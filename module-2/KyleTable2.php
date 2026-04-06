@@ -1,7 +1,3 @@
-/* Author: Kyle Klausen
-Date: 04/03/26
-Assignment: Module-2 */
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,7 +26,7 @@ Assignment: Module-2 */
     <?php
     /**
      * Name: Kyle Klausen
-     * Date: 04/05/2026
+     * Date: 04/03/2026
      * Assignment: Module - PHP Nested Loop Table
      * Description:
      * This program generates a 2D HTML table.
